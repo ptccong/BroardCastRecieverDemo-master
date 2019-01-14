@@ -1,0 +1,4 @@
+#Mon Jan 14 22:39:06 ICT 2019
+base.0=C\:\\Users\\Cong\\Downloads\\BroardCastRecieverDemo-master\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
